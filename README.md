@@ -1,0 +1,2 @@
+# StringBuilder Java
+A classe ```StringBuilder``` faz parte do pacote ```java.lang```, utilizada na manipulação de objetos do tipo String, devido a sua flexibilidade o seu uso é mais performático quando há necessidade de concatenação de grandes strings, uma vez que é possivel criar variáveis dinâmicas.
